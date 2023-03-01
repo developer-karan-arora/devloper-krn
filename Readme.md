@@ -4,21 +4,20 @@
       - Web development && Python
  🌱 I’m currently learning          
      
-     1- Machine Learning
-     2- Full Stack Development
-     3- DataStructure Algorithms
+     1- Full Stack Development
+     2- DataStructure Algorithms
+     3- Game Development
+     
  💞️ I’m looking to collaborate on     
  
-      1 React JS Projects
-      2- Three Js Projects
-      3- Web3.0    
+      1  React JS Projects
+      2- MERN Stack Projects
+      3- Three Js Projects    
  📫 How to reach me     
     
    WhatsappLink - [Link Avl](https://wa.me/+918447736113?text=I%like%20your%20github%20%20profile)   
    Linkden  - [Link Avl](https://www.linkedin.com/in/karan-arora-9abb3a240/)     
    Whatsapp - 8447736113      
-   <a href="whatsapp://send?text=This is WhatsApp sharing example using link"       data-action="share/whatsapp/share"  
-                    target="_blank"> Share to WhatsApp </a>
      
 
 <!---
