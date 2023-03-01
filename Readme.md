@@ -15,8 +15,8 @@
       3- Three Js Projects    
  📫 How to reach me     
     
-   [Link](https://wa.me/+918447736113?text=I%like%20your%20github%20%20profile) WhatsappLink    
-   [Link](https://www.linkedin.com/in/karan-arora-9abb3a240/)  Linkden  
+   [ [Link](https://wa.me/+918447736113?text=I%like%20your%20github%20%20profile) ] - WhatsappLink    
+   [ [Link](https://www.linkedin.com/in/karan-arora-9abb3a240/) ] -  Linkden  
    Whatsapp - 8447736113      
      
 
